@@ -1,0 +1,66 @@
+p {
+  color: white;
+}
+body {
+  background-color: blue;
+}
+
+.xnxx {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+
+.xnxx h1 {
+  color: white;
+  margin-top: 0px;
+}
+
+.container {
+  text-align: center;
+  display: table;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.post {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  width: 400px;
+  height: 638px;
+  text-align: center;
+  float: left;
+  margin-left: 20px;
+  border: 2px solid black;
+}
+
+.clear {
+  clear: both;
+}
+
+.post h1 {
+  color:white;
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 30px;
+  padding-top: 20px;
+}
+
+.post img {
+  width: 300px;
+  height: 400px;
+}
+
+.post p {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.post button {
+  display: block;
+  margin-left: 261px;
+}
+
+.post{
+  background-color: blue;
+}
